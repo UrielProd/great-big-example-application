@@ -539,9 +539,10 @@ angular-in-memory-web-api@0.5.1:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/angular-in-memory-web-api/-/angular-in-memory-web-api-0.5.1.tgz#e2a2073fe11bc08bad712774275e2728263e5ceb"
 
-angular-router-loader@0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/angular-router-loader/-/angular-router-loader-0.6.0.tgz#6c7caf7f1ea6acc6e2bc682cef91a343e9a7f3b5"
+angular-router-loader@0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/angular-router-loader/-/angular-router-loader-0.7.0.tgz#191c51d68d25cc77d2235e987e553ac09e93923f"
+  integrity sha512-9com8F2CfftF9MOyAVJX8kgkZVgVYTYDKJvaCmpPt5dRgRPC8iVM3YD0uhTVV47GvY6/KHlpxFEW9wIXoFbMow==
   dependencies:
     loader-utils "^1.0.2"
 
@@ -573,9 +574,10 @@ angular2-template-loader@0.6.2:
   dependencies:
     loader-utils "^0.2.15"
 
-angularfire2-offline@4.3.1:
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/angularfire2-offline/-/angularfire2-offline-4.3.1.tgz#d3b7986e229e328dddd3406c2a239d215455a838"
+angularfire2-offline@dancancro/angularfire2-offline:
+  version "0.0.0-development"
+  uid "45b3921cdba5f8cf3ab09b87aa206d7941db4d44"
+  resolved "https://codeload.github.com/dancancro/angularfire2-offline/tar.gz/45b3921cdba5f8cf3ab09b87aa206d7941db4d44"
   dependencies:
     json-stringify-safe "^5.0.1"
     localforage "1.5.0"
