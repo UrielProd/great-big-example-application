@@ -573,9 +573,10 @@ angular2-template-loader@0.6.2:
   dependencies:
     loader-utils "^0.2.15"
 
-angularfire2-offline@4.3.1:
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/angularfire2-offline/-/angularfire2-offline-4.3.1.tgz#d3b7986e229e328dddd3406c2a239d215455a838"
+angularfire2-offline@dancancro/angularfire2-offline:
+  version "0.0.0-development"
+  uid "45b3921cdba5f8cf3ab09b87aa206d7941db4d44"
+  resolved "https://codeload.github.com/dancancro/angularfire2-offline/tar.gz/45b3921cdba5f8cf3ab09b87aa206d7941db4d44"
   dependencies:
     json-stringify-safe "^5.0.1"
     localforage "1.5.0"
@@ -7551,9 +7552,10 @@ mkdirp@0.5.1, mkdirp@0.5.x, mkdirp@0.x.x, "mkdirp@>=0.5 0", mkdirp@^0.5.0, mkdir
   dependencies:
     minimist "0.0.8"
 
-moment@2.18.1:
-  version "2.18.1"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.18.1.tgz#c36193dd3ce1c2eed2adb7c802dbbc77a81b1c0f"
+moment@2.29.4:
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
+  integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
 
 moment@2.x, moment@2.x.x, moment@>=2.14.0, moment@^2.11.2, moment@^2.13.0, moment@^2.16.0, moment@^2.9.0:
   version "2.22.1"
