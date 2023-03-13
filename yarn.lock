@@ -631,9 +631,10 @@ angular-in-memory-web-api@0.5.1:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/angular-in-memory-web-api/-/angular-in-memory-web-api-0.5.1.tgz#e2a2073fe11bc08bad712774275e2728263e5ceb"
 
-angular-router-loader@0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/angular-router-loader/-/angular-router-loader-0.6.0.tgz#6c7caf7f1ea6acc6e2bc682cef91a343e9a7f3b5"
+angular-router-loader@0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/angular-router-loader/-/angular-router-loader-0.7.0.tgz#191c51d68d25cc77d2235e987e553ac09e93923f"
+  integrity sha512-9com8F2CfftF9MOyAVJX8kgkZVgVYTYDKJvaCmpPt5dRgRPC8iVM3YD0uhTVV47GvY6/KHlpxFEW9wIXoFbMow==
   dependencies:
     loader-utils "^1.0.2"
 

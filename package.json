@@ -31,7 +31,7 @@
     "amcharts3": "3.21.2",
     "ammap3": "3.21.6",
     "angular-in-memory-web-api": "0.5.1",
-    "angular-router-loader": "0.6.0",
+    "angular-router-loader": "0.7.0",
     "angular-sortablejs": "2.0.6",
     "angular2-cookie": "1.2.6",
     "angular2-infinite-scroll": "0.3.43",
