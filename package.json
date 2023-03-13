@@ -71,7 +71,7 @@
     "roboto-fontface": "0.8.0",
     "rxjs": "5.5.6",
     "simple-peer": "8.1.1",
-    "sockjs-client": "1.1.4",
+    "sockjs-client": "1.2.0",
     "sortablejs": "1.6.1",
     "swagger-ui": "2.2.10",
     "tether": "1.4.0",
