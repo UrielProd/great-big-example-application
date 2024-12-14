@@ -30,7 +30,7 @@
         <gatling-maven-plugin.version>2.2.1</gatling-maven-plugin.version>
         <!-- The hibernate version should match the one managed by
         https://mvnrepository.com/artifact/io.github.jhipster/jhipster-dependencies/${jhipster-dependencies.version} -->
-        <hibernate.version>5.3.18.Final</hibernate.version>
+        <hibernate.version>5.3.20.Final</hibernate.version>
         <hikaricp.version>2.6.0</hikaricp.version>
         <jackson-datatype-hibernate5.version>2.8.8</jackson-datatype-hibernate5.version>
         <jackson-datatype-hppc.version>2.8.8</jackson-datatype-hppc.version>
